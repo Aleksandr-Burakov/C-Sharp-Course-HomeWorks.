@@ -11,12 +11,13 @@ Write("Введите число : ");
 int number = Convert.ToInt32(Console.ReadLine());
 int length = NumberLength(number);
 SummaNumbers(number, length);
-int NumberLength(int a)
+
+int NumberLength(int num)
 {
     int i = 0;
-    while (a > 0)
+    while (num > 0)
     {
-        a /= 10;
+        num /= 10;
         i++;
     }
     return i;
@@ -29,7 +30,7 @@ void SummaNumbers(int n, int len)
         summa += n % 10;
         n /= 10;
     }
-    Console.WriteLine(summa);
+    WriteLine(summa);
 }
 
 
