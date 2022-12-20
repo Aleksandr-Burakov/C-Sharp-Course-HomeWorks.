@@ -22,13 +22,13 @@ int NumberLength(int num)
     }
     return i;
 }
-void SummaNumbers(int n, int len)
+void SummaNumbers(int b, int len)
 {
     int summa = 0;
     for (int i = 1; i <= len; i++)
     {
-        summa += n % 10;
-        n /= 10;
+        summa += b % 10;
+        b /= 10;
     }
     WriteLine(summa);
 }
