@@ -21,6 +21,12 @@
 
 Домашнее задание Se_04_Dz_25. --> [Блок схема](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_25/diagram.drawio.png) [Код](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_25/Program.cs)
 
-Домашнее задание Se_04_Dz_27. --> [Блок схема](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_27) [Код](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_2)
+Домашнее задание Se_04_Dz_27. --> [Блок схема](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_27/) [Код](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_27/Program.cs)
 
-Домашнее задание Se_04_Dz_29. --> [Блок схема](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_29) [Код](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_29)
+Домашнее задание Se_04_Dz_29. --> [Блок схема](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_29/) [Код](/HomeWorks/HomeWork_Lesson_04/Se_04_Dz_29/Program.cs)
+
+Домашнее задание Se_05_Dz_34. --> [Блок схема](/HomeWorks/HomeWork_Lesson_05/Se_05_Dz_34/) [Код](/HomeWorks/HomeWork_Lesson_05/Se_05_Dz_34/Program.cs)
+
+Домашнее задание Se_05_Dz_36. --> [Блок схема](/HomeWorks/HomeWork_Lesson_05/Se_05_Dz_36/) [Код](/HomeWorks/HomeWork_Lesson_05/Se_05_Dz_36/Program.cs)
+
+Домашнее задание Se_05_Dz_38. --> [Блок схема](/HomeWorks/HomeWork_Lesson_05/Se_05_Dz_38/) [Код](/HomeWorks/HomeWork_Lesson_05/Se_05_Dz_38/Program.cs)
