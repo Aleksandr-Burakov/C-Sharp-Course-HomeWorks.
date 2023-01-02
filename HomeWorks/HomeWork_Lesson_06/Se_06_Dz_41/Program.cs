@@ -4,7 +4,7 @@
 
 using static System.Console;
 Clear();
-WriteLine("Введите числа через запятую: ");
+WriteLine("Введите числа через запятую : ");
 string? input = ReadLine();
 int[] m = ParseStringToArray(input);
 int Comparison(int[] numbers)
