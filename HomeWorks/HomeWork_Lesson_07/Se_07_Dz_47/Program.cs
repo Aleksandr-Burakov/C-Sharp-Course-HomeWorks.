@@ -5,19 +5,6 @@
 // 8 7,8 -7,1 9
 
 
-// using static System.Console;
-// Clear();
-// int m = 3;
-// int n = 4;
-// string[,] table = new string[2, 5];
-// table[1, 2] = "слово";
-// for (int rows = 0; rows < 2; rows++)
-// {
-//     for (int columns = 0; columns < 5; columns++)
-//     {
-//         WriteLine($"-{table[rows, columns]}-");
-//     }
-// }
 
 using static System.Console;
 Clear();
