@@ -32,15 +32,7 @@ void FileArray(int[,] array)
 FileArray(matrix);
 PrintArray(matrix);
 WriteLine();
-void PrintArr(double[] array)
-{
-    WriteLine("Среднее арифметическое каждого столбца : ");
-    for (int i = 0; i < array.Length; i++)
-    {
-        Write($"{array[i]};  ");
-    }
-    WriteLine();
-}
+WriteLine("Среднее арифметическое каждого столбца :");
 double[] arr = new double[matrix.GetLength(1)];
 for (int i = 0; i < matrix.GetLength(1); i++)
 {
@@ -50,5 +42,6 @@ for (int i = 0; i < matrix.GetLength(1); i++)
         result = result + matrix[j, i];
     }
     arr[i] = result / matrix.GetLength(0);
+    string sumresult = string.Format(" {0:f2} ", arr[i]); 
+    Write(sumresult);
 }
-PrintArr(arr);
