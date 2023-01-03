@@ -37,3 +37,4 @@ void FileArray(double[,] array)
 FileArray(matrix);
 WriteLine();
 PrintArray(matrix);
+

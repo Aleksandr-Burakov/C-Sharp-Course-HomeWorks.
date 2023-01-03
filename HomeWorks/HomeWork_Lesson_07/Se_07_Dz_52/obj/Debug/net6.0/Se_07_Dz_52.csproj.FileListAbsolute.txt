@@ -1,0 +1,15 @@
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.csproj.AssemblyReference.cache
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.AssemblyInfoInputs.cache
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.AssemblyInfo.cs
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.csproj.CoreCompileInputs.cache
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\bin\Debug\net6.0\Se_07_Dz_52.exe
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\bin\Debug\net6.0\Se_07_Dz_52.deps.json
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\bin\Debug\net6.0\Se_07_Dz_52.runtimeconfig.json
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\bin\Debug\net6.0\Se_07_Dz_52.dll
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\bin\Debug\net6.0\Se_07_Dz_52.pdb
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.dll
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\refint\Se_07_Dz_52.dll
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.pdb
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\Se_07_Dz_52.genruntimeconfig.cache
+E:\Обучение GeekBrains\Обучение Программирование\Занятие_04. Знакомство с языками программирования\CSharpCourse\HomeWorks_C#\HomeWorks\HomeWork_Lesson_07\Se_07_Dz_52\obj\Debug\net6.0\ref\Se_07_Dz_52.dll

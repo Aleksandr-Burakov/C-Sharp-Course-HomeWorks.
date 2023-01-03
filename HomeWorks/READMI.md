@@ -34,3 +34,9 @@
 Домашнее задание Se_06_Dz_41. --> [Блок схема](/HomeWorks/HomeWork_Lesson_06/Se_06_Dz_41/) [Код](/HomeWorks/HomeWork_Lesson_06/Se_06_Dz_41/Program.cs)
 
 Домашнее задание Se_06_Dz_43. --> [Блок схема](/HomeWorks/HomeWork_Lesson_06/Se_06_Dz_43/) [Код](/HomeWorks/HomeWork_Lesson_06/Se_06_Dz_43/Program.cs)
+
+Домашнее задание Se_07_Dz_47. --> [Блок схема](/HomeWorks/HomeWork_Lesson_07/Se_07_Dz_47/) [Код](/HomeWorks/HomeWork_Lesson_07/Se_07_Dz_47/Program.cs)
+
+Домашнее задание Se_07_Dz_50. --> [Блок схема](/HomeWorks/HomeWork_Lesson_07/Se_07_Dz_50/) [Код](/HomeWorks/HomeWork_Lesson_07/Se_07_Dz_50/Program.cs)
+
+Домашнее задание Se_07_Dz_52. --> [Блок схема](/HomeWorks/HomeWork_Lesson_07/Se_07_Dz_52/) [Код](/HomeWorks/HomeWork_Lesson_07/Se_07_Dz_52)
