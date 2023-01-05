@@ -8,6 +8,7 @@
 using static System.Console;
 Clear();
 int[,] matrix = new int[3, 4];
+double[] doublearray = new double[matrix.GetLength(1)];
 void PrintArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -29,19 +30,25 @@ void FileArray(int[,] array)
         }
     }
 }
+void ArithmeticMeanArray(double[] doublearray)
+{
+    for (int i = 0; i < matrix.GetLength(1); i++)
+    {
+        double result = 0;
+        for (int j = 0; j < matrix.GetLength(0); j++)
+        {
+            result = result + matrix[j, i];
+        }
+        doublearray[i] = result / matrix.GetLength(0);
+        string sumresult = string.Format(" {0:f2} ", doublearray[i]);
+        Write(sumresult);
+    }
+}
+
 FileArray(matrix);
 PrintArray(matrix);
 WriteLine();
 WriteLine("Среднее арифметическое каждого столбца :");
-double[] arr = new double[matrix.GetLength(1)];
-for (int i = 0; i < matrix.GetLength(1); i++)
-{
-    double result = 0;
-    for (int j = 0; j < matrix.GetLength(0); j++)
-    {
-        result = result + matrix[j, i];
-    }
-    arr[i] = result / matrix.GetLength(0);
-    string sumresult = string.Format(" {0:f2} ", arr[i]); 
-    Write(sumresult);
-}
+WriteLine();
+ArithmeticMeanArray(doublearray);
+WriteLine();
