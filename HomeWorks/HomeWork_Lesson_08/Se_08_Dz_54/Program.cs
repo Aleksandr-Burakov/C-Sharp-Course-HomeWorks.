@@ -11,7 +11,7 @@
 
 using static System.Console;
 Clear();
-int[,] matrix = new int [3, 4];
+int[,] matrix = new int[3, 4];
 void FileArray(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -22,7 +22,6 @@ void FileArray(int[,] array)
         }
     }
 }
-
 void BubbleSorting(int[,] array)
 {
     for (int i = 0; i < array.GetLength(0); i++)
@@ -37,8 +36,8 @@ void BubbleSorting(int[,] array)
                     array[i, a] = array[i, j];
                     array[i, j] = temp;
                 }
-            }   
-        }  
+            }
+        }
     }
 }
 void PrintArray(int[,] array)
@@ -52,9 +51,6 @@ void PrintArray(int[,] array)
         WriteLine();
     }
 }
-
-
-
 FileArray(matrix);
 PrintArray(matrix);
 WriteLine();
