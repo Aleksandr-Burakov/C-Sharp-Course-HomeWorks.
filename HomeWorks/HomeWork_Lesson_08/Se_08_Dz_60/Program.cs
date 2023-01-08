@@ -45,7 +45,7 @@ void PrintArray(int[,,] array)
         {
             for (int k = 0; k < ThreeDimensionalArray.GetLength(2); k++)
             {
-                Write($"{ThreeDimensionalArray[i, j, k]} ({j}, {k}, {i},) ");
+                Write($"{ThreeDimensionalArray[i, j, k]} ({j}, {k}, {i}) ");
             }
             WriteLine();
         }
@@ -53,6 +53,4 @@ void PrintArray(int[,,] array)
     }
 }
 FileArray(ThreeDimensionalArray);
-WriteLine();
 PrintArray(ThreeDimensionalArray);
-WriteLine();

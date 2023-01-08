@@ -44,3 +44,5 @@
 Домашнее задание Se_08_Dz_54. --> [Блок схема](/HomeWorks/HomeWork_Lesson_08/Se_08_Dz_54/) [Код](/HomeWorks/HomeWork_Lesson_08/Se_08_Dz_54/Program.cs)
 
 Домашнее задание Se_08_Dz_56. --> [Блок схема](/HomeWorks/HomeWork_Lesson_08/Se_08_Dz_56/) [Код](/HomeWorks/HomeWork_Lesson_08/Se_08_Dz_56/Program.cs)
+
+Домашнее задание Se_08_Dz_60. --> [Блок схема](/HomeWorks/HomeWork_Lesson_08/Se_08_Dz_60/) [Код](/HomeWorks/HomeWork_Lesson_08/Se_08_Dz_60/Program.cs)
