@@ -8,4 +8,41 @@
 
 using static System.Console;
 Clear();
-int [,] 
+static void MatrixProduction()
+{
+    int[,] firstMatrix = new int[2, 2] { { 2, 4 }, { 3, 2 } };
+    int[,] secondMatrix = new int[2, 2] { { 3, 4 }, { 3, 3 } };
+    int[,] matrixProduction = new int[2, 2];
+    for (int i = 0; i < 2; i++)
+    {
+        {
+            for (int j = 0; j < 2; j++)
+            {
+                Console.Write(firstMatrix[i, j] + " ");
+            }
+            Console.Write("| ");
+            for (int k = 0; k < 2; k++)
+            {
+                Console.Write(secondMatrix[i, k] + " ");
+            }
+            WriteLine();
+        }
+    }
+    WriteLine();
+    for (int i = 0; i < 2; i++)
+    {
+        Console.Write("|  ");
+        for (int j = 0; j < 2; j++)
+        {
+            for (int k = 0; k < 2; k++)
+            {
+                matrixProduction[i, j] = matrixProduction[i, j] + firstMatrix[i, k] * secondMatrix[k, j];
+            }
+            Console.Write(matrixProduction[i, j] + " ");
+        }
+        Console.Write(" |");
+        WriteLine();
+    }
+    WriteLine();
+}
+MatrixProduction();
