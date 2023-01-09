@@ -18,12 +18,12 @@ static void MatrixProduction()
         {
             for (int j = 0; j < 2; j++)
             {
-                Console.Write(firstMatrix[i, j] + " ");
+                Write(firstMatrix[i, j] + " ");
             }
-            Console.Write("| ");
+            Write("| ");
             for (int k = 0; k < 2; k++)
             {
-                Console.Write(secondMatrix[i, k] + " ");
+                Write(secondMatrix[i, k] + " ");
             }
             WriteLine();
         }
@@ -31,16 +31,16 @@ static void MatrixProduction()
     WriteLine();
     for (int i = 0; i < 2; i++)
     {
-        Console.Write("|  ");
+        Write("|  ");
         for (int j = 0; j < 2; j++)
         {
             for (int k = 0; k < 2; k++)
             {
                 matrixProduction[i, j] = matrixProduction[i, j] + firstMatrix[i, k] * secondMatrix[k, j];
             }
-            Console.Write(matrixProduction[i, j] + " ");
+            Write(matrixProduction[i, j] + " ");
         }
-        Console.Write(" |");
+        Write(" |");
         WriteLine();
     }
     WriteLine();
