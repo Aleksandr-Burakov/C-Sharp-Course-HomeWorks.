@@ -4,7 +4,6 @@
 
 using static System.Console;
 Clear();
-
 Write("Введите число M : ");
 int m = Convert.ToInt32(ReadLine());
 Write("Введите число N : ");
