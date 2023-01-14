@@ -1,38 +1,28 @@
-﻿// Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
-// m = 2, n = 3 -> A(m,n) = 9
-// m = 3, n = 2 -> A(m,n) = 29
+﻿// Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
+// M = 1; N = 15 -> 120
+// M = 4; N = 8. -> 30
 
 using static System.Console;
 Clear();
 
-Write("Введите число m : ");
+Write("Введите число M : ");
 int m = Convert.ToInt32(ReadLine());
-Write("Введите число n : ");
+Write("Введите число N : ");
 int n = Convert.ToInt32(ReadLine());
-
-AckermannFunction(m, n);
-
-void AckermannFunction(int m, int n)
+SumNumbers(m, n);
+void SumNumbers(int m, int n)
 {
-    WriteLine(AckermannFunc(m, n));
+    Write(Summa(m - 1, n));
 }
-int AckermannFunc(int m, int n)
+int Summa(int m, int n)
 {
-    if (m == 0)
-    {
-        return n + 1;
-    }
-    else if ((m > 0) && (n == 0))
-    {
-        return AckermannFunc(m - 1, 1);
-    }
-    else if ((m > 0) && (n > 0))
-    {
-        return AckermannFunc(m - 1, AckermannFunc(m, n - 1));
-    }
+    int result = m;
+    if (m == n)
+        return 0;
     else
-        return n + 1;
+    {
+        m++;
+        result = m + Summa(m, n);
+        return result;
+    }
 }
-
-
-
