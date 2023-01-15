@@ -9,9 +9,6 @@ Write("Введите число m : ");
 int m = Convert.ToInt32(ReadLine());
 Write("Введите число n : ");
 int n = Convert.ToInt32(ReadLine());
-
-AckermannFunction(m, n);
-
 void AckermannFunction(int m, int n)
 {
     WriteLine(AckermannFunc(m, n));
@@ -33,3 +30,5 @@ int AckermannFunc(int m, int n)
     else
         return n + 1;
 }
+
+AckermannFunction(m, n);

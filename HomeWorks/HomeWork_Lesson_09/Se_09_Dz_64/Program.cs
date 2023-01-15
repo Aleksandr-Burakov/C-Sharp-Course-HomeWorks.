@@ -5,7 +5,7 @@
 
 using static System.Console;
 Clear();
-void Number()
+void NatNumber()
 {
     WriteLine("Введите натуральное число больше 1:");
     int n = int.Parse(ReadLine());
@@ -20,4 +20,4 @@ void Number()
     NaturalNumber(n);
 }
 
-Number();
+NatNumber();

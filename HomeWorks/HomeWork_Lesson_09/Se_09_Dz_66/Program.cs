@@ -8,7 +8,6 @@ Write("Введите число M : ");
 int m = Convert.ToInt32(ReadLine());
 Write("Введите число N : ");
 int n = Convert.ToInt32(ReadLine());
-SumNumbers(m, n);
 void SumNumbers(int m, int n)
 {
     Write(Summa(m - 1, n));
@@ -25,3 +24,5 @@ int Summa(int m, int n)
         return result;
     }
 }
+
+SumNumbers(m, n);
